@@ -5,7 +5,7 @@
 
 ## Links
 * **[Repository](https://github.com/CobaltFrostfish/ecomm-server)**
-* **[Video example](https://github.com/CobaltFrostfish/employee-tracker/blob/main/assets/employee-track-vid.gif)**
+* **[Video example](https://github.com/CobaltFrostfish/ecomm-server/blob/main/assets/ecomm-vid.gif)**
 # [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## The project
